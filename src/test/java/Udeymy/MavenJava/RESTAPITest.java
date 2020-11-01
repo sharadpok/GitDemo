@@ -18,6 +18,17 @@ System.out.println("Changes made by second again");
 @Test
 public void deleteTwitter()
 {
-System.out.println("Delete Twitter");	
+System.out.println("Delete Twitter");
+System.out.println("Delete Twitter");
+System.out.println("Delete Twitter");System.out.println("Delete Twitter");
+
+}
+@Test
+public void deleteTwitter2()
+{
+System.out.println("Delete Twitter2");
+System.out.println("Delete Twitter2");
+System.out.println("Delete Twitter2");
+
 }
 }
