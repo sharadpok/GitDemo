@@ -22,4 +22,10 @@ public void deleteTwitter2()
 System.out.println("Delete Twitter2");
 
 }
+@Test
+public void conflict2()
+{
+System.out.println("Conflict2");
+
+}
 }
